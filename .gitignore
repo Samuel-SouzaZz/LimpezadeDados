@@ -38,7 +38,10 @@ env/
 .DS_Store
 Thumbs.db
 
-# Grandes arquivos de dados são gerenciados pelo Git LFS
+# Arquivos de dados grandes
+dadosLimpos/dados_limpos.csv
+dadosSujos/vendas_modificado*.csv
+dadosLimpos/regras_associacao.csv
 
 # Logs
 logs/
