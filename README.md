@@ -63,4 +63,4 @@ Os principais resultados incluem:
 - Pandas para manipulação de dados
 - MLxtend para implementação do algoritmo Apriori
 - Numpy para operações numéricas
-- Matplotlib e Seaborn para visualizações (quando aplicável) 
+- Matplotlib e Seaborn para visualizações (quando aplicável) # Limpeza-e-Regras-de-Associa-o
